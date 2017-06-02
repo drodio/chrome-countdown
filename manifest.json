@@ -7,14 +7,14 @@
       "newtab": "dashboard.html"
    },
    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
-   "description": "Count down to Demo Day",
+   "description": "Horizon KPI countdown",
    "icons": {
       "128": "icon-128.png",
       "16": "icon-16.png",
       "48": "icon-48.png"
    },
    "manifest_version": 2,
-   "name": "YC Demo Day Clock",
+   "name": "Horizon KPI Clock",
    "offline_enabled": true,
    "version": "1.1"
 }

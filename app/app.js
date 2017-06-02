@@ -13,7 +13,7 @@ var App = function($el){
 App.fn = App.prototype
 
 App.fn.load = function(){
-  this.end = new Date(parseInt(1471878000192))
+  this.end = new Date(parseInt(1522578101193))
 }
 
 App.fn.renderTimeLoop = function(){
